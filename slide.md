@@ -85,3 +85,10 @@ _header: ""
 - SwitchBot
 - SoftEther ...
 
+---
+
+# 最近のアップデート
+
+OpenSearchを構築して遊んでいます
+
+![w:1000](img/opensearch.png)
